@@ -4,7 +4,7 @@ import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 
 export default defineConfig({
-  base: '/vue-app66/',
+  base: '/vue-app66-Git/',
   plugins: [vue()],
   resolve: {
     alias: {
